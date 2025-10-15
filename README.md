@@ -139,13 +139,15 @@ resultados_hash_RA3.csv
 Abra o arquivo no Excel ou Google Sheets para gerar os gráficos de comparação.
 
 
-Gráfico
+![image](image4.png)
+
+
 ![image](image1.png)
 
-Gráfico
+
 ![image](image2.png)
 
-Gráfico
+
 ![image](image3.png)
 
 
