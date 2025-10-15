@@ -64,10 +64,6 @@ Foram definidos três tamanhos diferentes, com aumento de aproximadamente 10x en
 | Média   | 10.007  | Primo próximo de 10.000  |
 | Grande  | 100.003 | Primo próximo de 100.000 |
 
-![image](image1.png)
-![image](image2.png)
-![image](image3.png)
-
  Conjuntos de Dados
 
 Foram gerados três conjuntos de registros aleatórios utilizando seeds fixas para garantir igualdade entre testes:
@@ -142,6 +138,15 @@ resultados_hash_RA3.csv
 
 Abra o arquivo no Excel ou Google Sheets para gerar os gráficos de comparação.
 
+
+Gráfico
+![image](image1.png)
+
+Gráfico
+![image](image2.png)
+
+Gráfico
+![image](image3.png)
 
 
  Conclusão
