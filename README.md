@@ -2,14 +2,14 @@ PJBL - HASH
 
  Objetivo
 
-Este projeto tem como finalidade implementar e analisar o desempenho de diferentes tabelas hash em Java, comparando estratégias de encadeamento e rehashing (sondagem quadrática e hash duplo)**.
+Este projeto tem como finalidade implementar e analisar o desempenho de diferentes tabelas hash em Java, comparando estratégias de encadeamento e rehashing (sondagem quadrática e hash duplo).
 
 O trabalho mede tempo de inserção, tempo de busca, número de colisões, tamanho das listas encadeadas e gaps (espaços vazios), conforme especificado no enunciado.
 
 
  Implementação
 
-O código foi totalmente desenvolvido em Java puro, utilizando apenas vetores, tipos primitivos, classes simples e controle manual de colisões.
+O código foi totalmente desenvolvido em Java, utilizando apenas vetores, tipos primitivos, classes simples e controle manual de colisões.
 Nenhuma biblioteca de estrutura de dados pronta foi usada (`HashMap`, `ArrayList`, `Hashtable`, etc.).
 
 A execução gera automaticamente um arquivo chamado `resultados_hash_RA3.csv`, com todos os resultados medidos, que podem ser abertos no Excel ou Google Sheets para geração dos gráficos e tabelas solicitados no relatório.
