@@ -87,12 +87,12 @@ Durante a execução, o código mede e salva no CSV as seguintes informações:
 
 | Métrica              | Descrição                                                           |
 | -------------------- | ------------------------------------------------------------------- |
-| ⏱️ Tempo de inserção | Tempo total para inserir todos os registros                         |
-| 🔍 Tempo de busca    | Tempo total para buscar todos os registros inseridos                |
-| ⚠️ Colisões          | Número total de colisões ocorridas durante as inserções             |
-| 🧾 Top 3 listas      | Tamanho das três maiores listas encadeadas (apenas no encadeamento) |
-| 🧮 Gaps              | Menor, maior e média de distância entre elementos ocupados          |
-| 📊 Fator de carga    | Razão entre número de registros e tamanho da tabela                 |
+|    Tempo de inserção | Tempo total para inserir todos os registros                         |
+|    Tempo de busca    | Tempo total para buscar todos os registros inseridos                |
+|    Colisões          | Número total de colisões ocorridas durante as inserções             |
+|    Top 3 listas      | Tamanho das três maiores listas encadeadas (apenas no encadeamento) |
+|    Gaps              | Menor, maior e média de distância entre elementos ocupados          |
+|    Fator de carga    | Razão entre número de registros e tamanho da tabela                 |
 
 
 
