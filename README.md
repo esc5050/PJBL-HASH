@@ -120,7 +120,9 @@ Os resultados confirmam que a escolha da função hash e da estratégia de resol
 
 Autoria
 
-Trabalho desenvolvido por  Antonio Bernardo Zilio Tomasi,Gustavo Lona Grespan e Julia Machado Kociolek
-Disciplina: Resolução de Problemas Estruturados em Computação/ Ciência da Computação – PUCPR
-Ano: 2025
+>Trabalho desenvolvido por:  Antonio Bernardo Zilio Tomasi,
+>                            Gustavo Lona Grespan e 
+>                            Julia Machado Kociolek
+>Disciplina: Resolução de Problemas Estruturados em Computação/ Ciência da Computação – PUCPR
+>Ano: 2025
 
