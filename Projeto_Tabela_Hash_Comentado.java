@@ -3,16 +3,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-/*
- * Projeto: Implementação e Análise de Tabelas Hash (Trabalho RA3)
- * Autor: [Seu Nome]
- * Descrição: Este código implementa e compara três estratégias de Tabela Hash em Java,
- * conforme as especificações do trabalho acadêmico RA3. O objetivo é analisar o desempenho
- * de cada abordagem em termos de tempo, colisões e distribuição de dados.
- */
-
 /**
- * Classe simples (POJO) para encapsular cada registro de dado.
+ * Classe simples para encapsular cada registro de dado.
  * O 'codigo' é a chave que será usada para hashing.
  */
 class Registro {
@@ -21,7 +13,7 @@ class Registro {
 }
 
 /**
- * POJO para agrupar as estatísticas de gaps (espaços vazios) entre os elementos na tabela.
+ * Agrupamento das estatísticas de gaps (espaços vazios) entre os elementos na tabela.
  * Facilita o retorno de múltiplos valores do método de cálculo.
  */
 class GapStats {
@@ -182,8 +174,7 @@ class HashSondagemQuadratica implements TabelaHash {
 
     /**
      * Função Hash: Método da Dobra (Folding).
-     * Como a função 'resto da divisão' era proibida pela especificação, a dobra foi
-     * uma alternativa. Ela soma diferentes partes da chave, fazendo com que todos os
+     * Ela soma diferentes partes da chave, fazendo com que todos os
      * dígitos contribuam para o resultado final, melhorando a distribuição.
      */
     private int hash(String codigo) {
@@ -471,4 +462,5 @@ public class Projeto_Tabela_Hash {
         System.out.println("\n\nResultados salvos com sucesso no arquivo 'resultados_hash_RA3.csv'");
         System.out.println("Agora é só abrir no Excel ou Google Sheets e gerar os gráficos para o seu relatório!");
     }
+
 }
