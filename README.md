@@ -65,7 +65,8 @@ Foram definidos três tamanhos diferentes, com aumento de aproximadamente 10x en
 | Grande  | 100.003 | Primo próximo de 100.000 |
 
 ![image](image1.png)
-
+![image](image2.png)
+![image](image3.png)
 
  Conjuntos de Dados
 
