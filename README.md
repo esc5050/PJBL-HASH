@@ -118,15 +118,6 @@ Com base nos testes realizados:
 Os resultados confirmam que a escolha da função hash e da estratégia de resolução de colisões influencia diretamente o desempenho** de uma tabela hash, tanto em termos de tempo quanto de uso de memória.
 
 
-
- Requisitos do Trabalho
-
-> O envio é o link do git com o código implementado, e um readme com todas as informações sobre a implementação, a escolha das funções, os tamanhos dos conjuntos, os gráficos dos resultados e comparativos, a explicação de quem foi melhor e o porquê de ser melhor, e conclusão.
->
-> Todos os itens do trabalho devem ser descritos no relatório, isto é, devem ser explicados.
-
-
-
 Autoria
 
 Trabalho desenvolvido por  Antonio Bernardo Zilio Tomasi,Gustavo Lona Grespan e Julia Machado Kociolek
